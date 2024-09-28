@@ -60,12 +60,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** specializi
 - **MongoDB Basics** – Coursera
 - **Intermediate SQL** – Coursera
 
-## 📈 GitHub Stats
-
-![Muhammad Waqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhmmadwaqar&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmadwaqar&layout=compact&theme=radical)
-
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on projects and innovative ideas. Feel free to reach out!
